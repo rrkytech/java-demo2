@@ -9,7 +9,7 @@ public class AppTest {
     @Test
     public void testMessage() {
         assertEquals(
-            "Hello from Jenkins CI/CD!",
+            "Hello from automatichari hari Jenkins webhook!",
             App.getMessage()
         );
     }
