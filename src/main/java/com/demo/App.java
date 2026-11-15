@@ -3,7 +3,7 @@ package com.demo;
 public class App {
 
     public static String getMessage() {
-        return "Hello from Jenkins CI/CD!";
+        return "Hello from Jenkins CI/CD Webhook!";
     }
 
     public static void main(String[] args) {
